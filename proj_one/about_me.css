@@ -1,0 +1,20 @@
+#top-part{
+    position: fixed;
+    height: 50vh;
+    width:100%;
+    border-right:2px solid;
+    border-right-color: rgb(120, 120, 128);
+    border-bottom:2px solid;
+    border-bottom-color: rgb(120, 120, 128);
+   
+}
+
+#top-part #education{
+    
+}
+
+
+/* #bot-part{
+    position: fixed;
+    height: 50%;
+} */
